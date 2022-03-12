@@ -1,4 +1,6 @@
 # Tableau_Bikesharing
+Click [here](https://public.tableau.com/views/ChallengeTableau_16470289579230/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) for the link to the Tableau Public page.
+
 ## Purpose 
 THe purpose of this project was to analyze the August data from the [Citi Bike program](https://ride.citibikenyc.com/system-data) in New York City to see if it's worth investing in a bike share program.
 
